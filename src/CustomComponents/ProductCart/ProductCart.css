@@ -1,0 +1,23 @@
+.Paper-Wrapper-1{
+    height: 100vh;
+    width:40%;
+    background-color: #fbfbfb;
+    border-radius: 0px !important;
+
+}
+.Paper-Wrapper-2{
+    height: 100vh;
+    width:60%;
+    background-color: #fbfbfb;
+    border-radius: 0px !important;
+    justify-content: center;
+    align-items: center;
+}
+.Picture-2{
+    background-image: url("../../assets//home2.png");
+    background-size: cover;
+}
+.Picture-3{
+    background-image: url("../../assets//home3.png");
+    background-size: cover;
+}

@@ -1,0 +1,32 @@
+@import '../App.css';
+.Nav-Container{
+    background-color: #062f6a;
+}
+.Container-Logo{
+    height: 10rem;
+    justify-content: center;
+}
+.Img-Logo{
+    height: 1.5rem;
+    width: 6rem;
+    background-image: url("../assets/pally_logo.png");
+    background-size: cover;
+    background-color: #062f6a;
+}
+.Nav-Icon-Bar{
+    width: 100%;
+}
+.Nav-Icon{
+    color: rgb(251, 251, 251);
+    font-size: 1.5rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Nav-Container{
+    height: 5rem;
+
+}
+.Nav-Container:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}

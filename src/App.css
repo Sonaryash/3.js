@@ -1,0 +1,33 @@
+:root {
+    font-size: 16px;
+    --sidebar: #0970e5;
+    --sidebartext: #111111;
+    --button-color: #0970e5;
+    --link-color: #0970e5;
+    --inputBorder-color: #111;
+    --white-background: #fff;
+    --white-font: #fff;
+    --red-font: #ff0000;
+    --red-button: #ff0000;
+    --grey-thead: #ebecf0;
+    --corner-radius: 0.8rem;
+    --elevated-line: 0px 0px 1px 1px #e8e8e8;
+    --shadow: #c1b6b6;
+  --scrollbarBG: #eee;
+  --thumbBG: #dac3da;
+  }
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+::-webkit-scrollbar {
+  width: 16px;
+}
+::-webkit-scrollbar-track {
+  background: var(--scrollbarBG);
+}
+::-webkit-scrollbar-thumb {
+  background-color: var(--thumbBG);
+  box-shadow: 0 -100vh 0 100vh var(--shadow), 0 0 15px 5px black;
+}
