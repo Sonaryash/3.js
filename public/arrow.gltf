@@ -1,0 +1,224 @@
+{
+  "accessors": [
+    {
+      "componentType": 5125,
+      "count": 756,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 196,
+      "max": [
+        0.869915914068035,
+        0.8767391328718148,
+        0.8554978300543392
+      ],
+      "min": [
+        -0.8699166064168893,
+        -0.8767391328718148,
+        -0.7888144736196481
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 196,
+      "max": [
+        1.5290259653961709,
+        1.5290259653961709,
+        3.664526232405878
+      ],
+      "min": [
+        -1.5301793896400702,
+        -1.5301793896400702,
+        -2.0184400164329777
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 196,
+      "max": [
+        1.0009775171065494,
+        1.0012023514054738
+      ],
+      "min": [
+        -0.0009775171065493646,
+        0.009022488257868666
+      ],
+      "type": "VEC2"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "PropShop (https://sketchfab.com/syedabbas0815)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/arrow-263ad4c05921489bafde2d3342eadae9",
+      "title": "Arrow"
+    },
+    "generator": "Sketchfab-14.41.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 1306
+    }
+  ],
+  "buffers": [
+    {
+      "name": "arrow",
+      "byteLength": 1312,
+      "uri": "data:application/octet-stream;base64,RFJBQ08CAgEBAAAAgAH8AQL7AQUAP3+qVWtVVau0VFWrtFTVU6WlSt9a16p6qlRLaUtLtWi1qlSpepeqUlWq67pUlapSVVqqVKkqVVpUKaVUKaUUBQEBEP8C8HfTIlXETEfBkAES58R1zH5S2uVRB6lwCZ1MwBWCVgsEebngsYYD/wAAAQEAAAAAAQAJAwABAgEDCQIAAgIBAQkDAAADAQEBAAwDAQUBAwMBBAEEgIEGgRMBAgECgREuIM2Dv+Yz7IlUbECFA1aFixfl6yH0vQiSHHDVb3GibwjzrEeD6Ri80AOfMRh+ilB0YgCUCIDKJxEAlp+wBohtNVgfgglQkAlAYQ2A/DgDrLVHrEeLNdgOZAIuJgGAnAEwBgzwzsix3iZoYTtAO8Am4OMQgMwXAEkkBSjiL1mvD/ewHUBWABOBWB6giAqQUUWAtwWX9bTwEtsB1AZQEbiFAaSIAMIvGcCdDs16M+iK7YAmoBGGRwAwGQDSDARQloezngL2YjsAPQKwDsUWwNkHANUUAEmIOut7oDG2AyEwCskHwNoCINUTANZYOusXwTG2w0IwJCEA6woAofkHwD39Zv01BMZ2YECFowvg3AOA3jEAeq2Z9RdBFtsB6BEAdPghAb5jADpNBOBVZln/FDuxHYABAZAI7MQA1EMARoejAFCaJOvzgiC2A6gNQCLQ0gPKfAHIegHuDw2AsV8A+2yN9ZVRDNsBZAWAEeAZBJigBPBpBpjhNADQ0wxAmwGxPjT4YDuADQAn4EATwKIaQDGZYH1nwMB2Dh4AAAAAAP8HAAAJgsO/CYLDv64AAcBrrbVACwUBAQALA/UBRQOdAvEC3QbFGwUPSQKoqD5O41EPbsVzqA1TXDPhcfDdw23Pg1KFcBURFuUHTyUrOCHwu5S0Jad5U0xv7mKKdBSQd5E/19s6i8DSJdh/hwFWABAALKT5A/XUAz/wAz/wAz/wAz/wAz/QAz/wAz3QAz/QAz/wAz/wAz/wAz/wAz/QAz/wAz/QAz/wAz/wAz/wAz/QAz/wAz/wAz/wAz/QA3P6CbAiQhAKChJIgAEGIAACJEACJEACIAACGGAggQQMCgQhUs6CBKGgIIEEGGAAAiRAAiQAAiCAAQYSSKCgYBAgCGb+gNMP/MAP/MAP/EAP/MAP/MAPbAomQC+iu+Futi1rq9rjei8p0Qd97ZTVN205281X8U2gJzjnbDdbTnV1E5/sJX07ZQe7rqq7b7YbbqKbAomvRSTAMj5glEABVIsZYL7ACW4NH4Dv+AX6jSAAPqMnwDX0gFojFmAtUgERwgPsYQraOACgAAAABgaQ6qDkcYAAAAAA/wMAAAAAAAAQ1yM8AACAPwoGAwEACRcBDAEEATATAA97Xg1NrT7qtIBa+EmIP0ebgN0HUEC/uOB4bWDQfRR8LwyIE4LcDs8LCMYUzQ7ffwHeYBBu6OAS1hIZ0xHg+BEOsRCu2OIT2hUb1xPj9BJO4RD+xOQU1RwZ3hXjMBR+IQFuweQW4RYh1hbk7iWuUfHtweUY2CEZ5Bjl7yf+sdGtyuUZ3R4g3hnlstq98SH+veUZ3SEh3RnmsOdtoSF+ueQY5Bol1hjlr/UtcSEOveMX3h4b3xbkshPuMBG+0OMU2x4Z3RXkthKuEH4AEX7g4hPZHBjbFOG6ASyIDzh8Fz94RDUHBbcE+AP3USDev+AtOH47XF9QSC9AG1xDAQfd3QfOFcUJ/wAAAH8AAAD/ArpKCAAAAAAAAA=="
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Material.002",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0,
+          0.8,
+          0.0204471,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.8186002804733294
+      },
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "alphaMode": "OPAQUE"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Cylinder_Material.002_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 0,
+          "material": 0,
+          "mode": 4,
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "NORMAL": 0,
+                "POSITION": 1,
+                "TEXCOORD_0": 2
+              }
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.220446049250313e-16,
+        -1,
+        0,
+        0,
+        1,
+        2.220446049250313e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0.009999999776482582,
+        0,
+        0,
+        -0.009999999776482582,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "64ba6929968b4345955e2c9be6c88301.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        0.006284574867516418,
+        0.560483449348094,
+        -3.32216896077735e-8,
+        0,
+        0.000001804240508339277,
+        -6.79373490204406e-7,
+        -11.120407104492019,
+        0,
+        -11.11970810644125,
+        0.1246827862287101,
+        -0.0000018117442830468424,
+        0,
+        0,
+        203.65037536621094,
+        0,
+        1
+      ],
+      "name": "Cylinder"
+    },
+    {
+      "mesh": 0,
+      "name": "Cylinder_Material.002_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_draco_mesh_compression"
+  ],
+  "extensionsUsed": [
+    "KHR_draco_mesh_compression"
+  ]
+}
